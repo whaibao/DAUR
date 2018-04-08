@@ -73,9 +73,9 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 
 | Name1 | Name2 | Task |
 |:---:|:---:|:---:|
-|姜鹤| | 分层线性模型|
-|荣杨| | 结构方程|
-
+|姜鹤| |分层线性模型|
+|荣杨| |结构方程|
+|藏慧琳|汪海宝|断点回归|
 
 
 吕小康
